@@ -1,2 +1,5 @@
-# thesis_project
-ML for football data analysis
+# thesis_project: LSTM for football data analytics
+
+In the past 15 years, football has seen a major shift due to the integration of data analysis. Professional clubs are now using vast amounts of data to gain competitive edges, which has led to the emergence of the football data analysis industry. One key area of interest within this field is predicting the market value of players. Given the significant amounts spent on transfers and player contracts, having reliable predictive tools can offer sports organizations a substantial advantage.
+
+This thesis examines the use of a Long Short-Term Memory (LSTM) to predict football players' market value. A player's market value can be influenced by various factors, including their performance, age, and the leagues they play in. By using historical performance data along with other relevant variables, this thesis aims to create a predictive model that can accurately estimate a player's market value. LSTMs are particularly suited for this task because they excel at modeling time series data and managing sequential data with long-term dependencies, which is characteristic of players' performance and market value over time.
